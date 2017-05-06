@@ -1,6 +1,6 @@
 body {
   background-repeat: no-repeat;
-  background-image: url('pexel2.jpeg');
+  background-image: url('Assets/pexel2.jpeg');
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
@@ -51,7 +51,7 @@ input {
   margin-bottom: 20px;
 }
 .btn-login: active {
-  color: #bf006c; 
+  color: #bf006c;
 }
 a {
   color: #fff;
